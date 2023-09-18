@@ -1,4 +1,4 @@
 # sangaku-web
 sangaku-webapp
 
- https://tyukei.github.io/sangaku-web/
+ https://tyukei.github.io/sangaku-web/webgl/index.html
